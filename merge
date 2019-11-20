@@ -1,0 +1,5 @@
+#include<iostream.h>
+#include<studio.h>
+void main :
+{ cout<<"simple code ";
+getch();}
